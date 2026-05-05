@@ -1,4 +1,5 @@
 ﻿using System;
+using Spectre.Console;
 
 namespace NXPatchr
 {
@@ -6,7 +7,7 @@ namespace NXPatchr
     {
         public static void Main(String[] args)
         {
-            Console.WriteLine("**************** NXPatchr - v0.1 ****************");
+            // ...
         }
     }
 }
