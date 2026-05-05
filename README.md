@@ -19,4 +19,13 @@ Before you install and use this program, you'll want the following things:
 > [!IMPORTANT]
 > NXPatchr and its maintainers and owners do not condone, encourage, or approve of piracy of video games or "cracked" games. NXPatchr will only work with legally dumped games.
 
-<!-- finish this later, bleh -->
+### For Windows Users
+
+For users on Windows, head to the [Releases page](../../releases) and download the latest released version for your system. The file name should look like `NXPatchr-X.X.X-Windows.zip`
+
+Once downloaded, you can extract it (right click the folder, click "extract" or "extract to") and run it!
+
+### Linux and MacOS Users
+
+> [!NOTE]
+> I plan on making this cross-platform, I primarily work on Windows and will be targeting this first, apologies!
